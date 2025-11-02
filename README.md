@@ -1,3 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gabriel Siriani</h1>
-<h3 align="center">I'm a Full-Stack Junior Developer with a passion for creating innovative web applications and improving my coding skills</h3>
-<p align="center">Sou um desenvolvedor júnior Full-Stack com a paixão de criar aplicações modernas e inovadoras e sempre evoluindo minha habilidades em programação</p>
+<h3 align="center">ossuo formação técnica em Programação de Computadores pelo Cotemig, e experiência como Programador desenvolvedor de sistemas, com especialização em sistemas ERP legado e modernos</h3>
+<p align="center">Sou estudante de bacharelado na área de Ciências Exatas e Humanas na Universidade Federal de Minas Gerais (UFMG); com formação focada em Estatística, Ciência de dados, Atuária e Ciências Sociais Aplicadas (ex.: Demografia e Economia). Além de relevante experiência como Programador Full-Stack.</p>
+
